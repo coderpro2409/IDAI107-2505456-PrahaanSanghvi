@@ -2,7 +2,7 @@ torch
 torchvision
 ultralytics
 streamlit
-opencv
+opencv-python-headless
 pillow
 numpy
 pandas
